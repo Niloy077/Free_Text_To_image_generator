@@ -6,3 +6,4 @@ diffusers==0.16.1
 transformers
 Pillow
 matplotlib
+huggingface_hub
